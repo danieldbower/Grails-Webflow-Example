@@ -1,0 +1,9 @@
+*.swp
+.~lock*
+*.*.prod
+target/*
+web-app/WEB-INF/classes/*
+stacktrace.log
+.classpath
+.project
+.settings/*
